@@ -1,4 +1,4 @@
 # apnaCollege
 learning github 
 <br>
-author - Raj Gannojwar
+author - Raj Ramkishan Gannojwar
